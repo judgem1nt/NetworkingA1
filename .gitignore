@@ -30,3 +30,17 @@
 *.exe
 *.out
 *.app
+*.vsidx
+.vs/networkA1/v17/.suo
+*.db
+*.ipch
+*.recipe
+*.ilk
+*.log
+*.pdb
+*.tlog
+*.idb
+Debug/networkA1.vcxproj.FileListAbsolute.txt
+*.vcxproj
+*.filters
+*.user
